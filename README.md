@@ -1,7 +1,7 @@
 ![CAPA LINKEDIN_PERFIL PESSOAL03](https://user-images.githubusercontent.com/52717632/123512102-9546b200-d653-11eb-8b6c-f6c1dd19143e.png)
 # Projeto All for One  :supervillain_man:
 
-### Décimo oitavto projeto do curso de Desenvolvimento Full Stack Web da Trybe.
+### Décimo oitavo projeto do curso de Desenvolvimento Full Stack Web da Trybe.
 
 ## Objetivos a serem alcançados no decorrer da construção do projeto:
 
@@ -155,4 +155,4 @@ Monte queries para encontrar as informações esperadas pelos desafios:
 #### 27 - Delete todos os dados da tabela `order_details`.
 
 ---
-:keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/)
+:keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
